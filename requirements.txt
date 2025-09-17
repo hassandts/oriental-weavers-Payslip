@@ -1,0 +1,6 @@
+Flask
+gunicorm
+python-dotenv
+pyodbc
+pandas
+werkzeug
